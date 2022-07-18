@@ -1,4 +1,5 @@
 
+
 # DoctorCare
 
 Landing Page responsiva para ser utilizada em diversos tipos de dispositivos. Foi desenvolvida através de uma atividade da Rocketseat NLW-Return, trilha origin.
@@ -12,15 +13,14 @@ Landing Page responsiva para ser utilizada em diversos tipos de dispositivos. Fo
 - HTML
 - CSS
 - Javascript
-## Funcionalidades
-
-- Agendar consultas
-- Informar sobre a clínica
-
-
-
 ## Bibliotecas
 
 - Google Fonts
 - ScrollReveal
+
+
+## Funcionalidades
+
+- Agendar consultas
+- Informar sobre a clínica
 
